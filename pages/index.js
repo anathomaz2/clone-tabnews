@@ -1,5 +1,5 @@
 function Home() {
-  return <h1> Aproveita agora que ta na planta, porque quando eu for um site completo, vou perder a humildade. </h1>;
+  return <h1> Mesmo você não acreditando, to morrendo de suadades amor </h1>;
 }
 
 export default Home;
